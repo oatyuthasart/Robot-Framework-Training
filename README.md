@@ -1,4 +1,4 @@
-[ข้อความลิงก์](#my-class)
+โย่(#my-class)
 <h1>This is my simple training robot framework's folder.</h1>
 <h3>The repository consist of 3 components of Page Object Model.</h3>
 <ul>
